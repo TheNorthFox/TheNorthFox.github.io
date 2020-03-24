@@ -1,7 +1,6 @@
 
 
-    </div>
-    <div id="root">
+    <div>
       <h2>Welcome to TheNorthFox</h2>
     </div>
    
